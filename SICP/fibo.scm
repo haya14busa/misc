@@ -1,0 +1,12 @@
+(define (fibo n)
+  (cond ((= n 0) 0)
+        ((= n 1) 1)
+        (else (+ (fibo (- n 2))
+                 (fibo (- n 1)) ))))
+(define (fibo-iter n)
+  (define (iter a b count)
+    (if (= count n)
+        a
+        (iter b (+ a b) (+ count 1))))
+  (iter 0 1 0)
+  )
