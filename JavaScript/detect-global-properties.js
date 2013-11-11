@@ -1,5 +1,5 @@
 // https://gist.github.com/nulltask/7412711#file-index-js
-var leak = (function() {
+javascript:(function() {
 
   var leak = [];
   var iframe = document.createElement('iframe');
@@ -15,6 +15,6 @@ var leak = (function() {
 
   document.body.removeChild(iframe);
 
-  return leak;
+  alert(leak);
 
-}).call(this);alert(leak);
+}).call(this);
