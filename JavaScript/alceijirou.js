@@ -1,0 +1,1 @@
+javascript:(function(){var text=encodeURIComponent(window.getSelection());text=(!text)?encodeURIComponent(window.prompt('英辞郎')):text;if(text=='null'||text=='')return;URL1="http://eow.alc.co.jp/search?q="+text;window.open(URL1,"_blank");})();
