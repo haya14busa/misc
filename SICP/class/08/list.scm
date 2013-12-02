@@ -1,6 +1,8 @@
 (define nil '())
 
 ;; equal?
+(display "(define (equal? items1 items2)")
+(newline)
 (define (equal? items1 items2)
   (cond ((eq? items1 items2) #t)
         ((not (pair? items1)) (eq? items1 items2))
@@ -9,15 +11,20 @@
          (equel? (cdr items1) (cdr items2)) )))
 ;; list-ref
 (display "(define (list-ref items n)")
+(newline)
 (define (list-ref items n)
   (if (= n 0)
       (car items)
       (list-ref (cdr items) (- n 1))))
 ;; Length
+(display "(define (length items)")
+(newline)
 (define (length items)
   (if (null? items)
       0
       (+ 1 (length (cdr items)))))
+(display "(define (length-i items)")
+(newline)
 (define (length-i items)
   (define (iter count data)
     (if (null? data)
@@ -25,18 +32,24 @@
         (iter (+ 1 count) (cdr data)) ))
   (iter items 0))
 ;; Copy
+(display "(define (copy items)")
+(newline)
 (define (copy items)
   (cond ((null? items) items)
         ((not (pair? items)) items)
         (else (cons (car items)
                     (copy (cdr items)) ))))
 ;; deep-copy
+(display "(define (deep-copy items)")
+(newline)
 (define (deep-copy items)
   (cond ((null? items) items)
         ((not (pair? items)) items)
         (else (cons (deep-copy (car items))
                     (deep-copy (cdr items))))))
 ;; Append
+(display "(define (append list1 list2)")
+(newline)
 (define (append list1 list2)
   (if (null? list1)
       list2
@@ -46,6 +59,8 @@
             )))
 ;; Reverse
 ;; swap can be implemented by reverse algorithim
+(display "(define (reverse items)")
+(newline)
 (define (reverse items)
   (if (null? items)
       nil
@@ -54,15 +69,21 @@
         (list (car items)) )))
 
 ;; Member
+(display "(define (member x items)")
+(newline)
 (define (member x items)
   (cond ((null? items) nil)
         ((equal? x (car items)) items)
         (else (member x (cdr items))) ))
+(display "(define (memq x items)")
+(newline)
 (define (memq x items)
   (cond ((null? items) nil)
         ((eq? x (car items)) items)
         (else (memq x (cdr items))) ))
 ;; Assoc
+(display "(define (assoc x alist)")
+(newline)
 (define (assoc x alist)
   (cond ((null? alist) nil)
         ((and (pair? (car alist))
@@ -70,25 +91,33 @@
          (car alist) )
         (else (assoc x (cdr items))) ))
 ;; Each item in list
+(display "(define (absolute-list items)")
+(newline)
 (define (absolute-list items)
   (if (null? items)
       nil
       (cons (abs (car items))
             (absolute-list (cdr items)) )))
+(display "(define (scale-list items factor)")
+(newline)
 (define (scale-list items factor)
   (if (null? items)
       nil
       (cons (* (car items) factor)
             (scale-list (cdr items)
                         factor ))))
+(display "(define (map proc items)")
+(newline)
 (define (map proc items)
   (if (null? items)
       nil
       (cons (proc (car items))
             (map proc (cdr items)) )))
-(display (map abs (list -10 2.5 -11.6 17)))
+;;(display (map abs (list -10 2.5 -11.6 17)))
 
 ;; Arguments with dotted-tail notation
+(display "(define (sum . items)")
+(newline)
 (define (sum . items)
        (define (iter items result)
          (if (null? items)
@@ -97,7 +126,6 @@
                    (+ result (car items))
             )))
        (iter items 0) )
-(newline)
-(display (sum 1 2 3 4 5))
-
+;;(newline)
+;;(display (sum 1 2 3 4 5))
 
