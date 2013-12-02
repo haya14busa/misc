@@ -1,0 +1,1 @@
+javascript:(function(){var text=encodeURIComponent(window.getSelection());text=(!text)?encodeURIComponent(window.prompt('ALC: Etymology & Eijirou')):text;if(text=='null'||text=='')return;URL1="http://eow.alc.co.jp/search?q="+text;URL2="http://home.alc.co.jp/db/owa/etm_sch?instr="+text+"&stg=1";window.open(URL1,"_blank");window.open(URL2,"_blank");})();
