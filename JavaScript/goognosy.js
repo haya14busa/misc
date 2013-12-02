@@ -1,0 +1,1 @@
+javascript:(function(){var text=encodeURIComponent(window.getSelection());text=(!text)?encodeURIComponent(window.prompt('GooGunosy')):text;if(text=='null'||text=='')return;gsearchURL="http://www.google.com/search?hl=en&q="+text;gunosyURL="http://www.google.com/search?q="+text+" site:gunosy.com";window.open(gsearchURL,"_blank");window.open(gunosyURL,"_blank");})();
