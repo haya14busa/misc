@@ -1,0 +1,1 @@
+javascript:(function(){var text=encodeURIComponent(window.getSelection());text=(!text)?encodeURIComponent(window.prompt('アルク語源辞典')):text;if(text=='null'||text=='')return;URL1="http://home.alc.co.jp/db/owa/etm_sch?instr="+text+"&stg=1";window.open(URL1,"_blank");})();
