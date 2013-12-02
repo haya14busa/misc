@@ -108,6 +108,7 @@
                         factor ))))
 (display "(define (map proc items)")
 (newline)
+;; Map
 (define (map proc items)
   (if (null? items)
       nil
@@ -129,3 +130,12 @@
 ;;(newline)
 ;;(display (sum 1 2 3 4 5))
 
+;; count-leaves
+(display "(define (count-leaves x)")
+(newline)
+(define (count-leaves x)
+  (cond ((null? x) 0)
+        ((not (pair? x)) 1)
+        (else (+ (count-leaves (car x))
+                 (count-leaves (cdr x))
+                 ))))
