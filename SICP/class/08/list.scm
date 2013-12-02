@@ -1,4 +1,5 @@
 (define nil '())
+
 ;; equal?
 (define (equal? items1 items2)
   (cond ((eq? items1 items2) #t)
@@ -6,6 +7,12 @@
         ((not (pair? items2)) #f)
         ((equal? (car items1) (car items2))
          (equel? (cdr items1) (cdr items2)) )))
+;; list-ref
+(display "(define (list-ref items n)")
+(define (list-ref items n)
+  (if (= n 0)
+      (car items)
+      (list-ref (cdr items) (- n 1))))
 ;; Length
 (define (length items)
   (if (null? items)
