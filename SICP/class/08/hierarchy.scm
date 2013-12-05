@@ -20,7 +20,7 @@
         ((not (pair? tree)) (* tree factor))
         (else
           (cons (scale-tree (car tree) factor)
-                (scale-tree (car tree) factor)
+                (scale-tree (cdr tree) factor)
                 ))))
 (define (scale-tree-map tree factor)
   (map
@@ -30,13 +30,13 @@
           (* sub-tree factor) ))
     tree ))
 ;; powerset
-(define (powerset a)
-  (if (null? a)
-    (list nil)
-    (let ((rest (powerset (cdr a)))
-          (append
-            rest
-            (map
-              (lambda (x)
-                (append (list (car a)) x))
-              rest ))))))
+;;(define (powerset a)
+;;  (if (null? a)
+;;    (list nil)
+;;    (let ((rest (powerset (cdr a)))
+;;          (append
+;;            rest
+;;            (map
+;;              (lambda (x)
+;;                (append (list (car a)) x))
+;;              rest ))))))
