@@ -1,0 +1,1 @@
+javascript:(function(){var text=encodeURIComponent(window.getSelection());text=(!text)?encodeURIComponent(window.prompt('weblio類語辞典')):text;if(text=='null'||text=='')return;URL1="http://thesaurus.weblio.jp/content/"+text;window.open(URL1,"_blank");})();
