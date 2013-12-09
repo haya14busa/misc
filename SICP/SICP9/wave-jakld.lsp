@@ -1,0 +1,31 @@
+(define wave
+   (vertexes->painter
+     (list (make-vect 0.25 0.00) (make-vect 0.35 0.50)
+           (make-vect 0.30 0.55) (make-vect 0.20 0.45)
+           (make-vect 0.00 0.60) (make-vect 0.00 0.80)
+           (make-vect 0.20 0.55) (make-vect 0.30 0.60)   
+           (make-vect 0.40 0.60) (make-vect 0.35 0.80)
+           (make-vect 0.40 1.00) (make-vect 0.60 1.00)
+           (make-vect 0.65 0.80) (make-vect 0.60 0.60)
+           (make-vect 0.70 0.60) (make-vect 1.00 0.40)
+           (make-vect 1.00 0.20) (make-vect 0.65 0.50)
+           (make-vect 0.75 0.00) (make-vect 0.60 0.00)
+           (make-vect 0.50 0.20) (make-vect 0.40 0.00)  )
+    #t ))
+
+(define letterlambda
+  (segments->painter
+   (list (make-segment (make-vect .45 .6) (make-vect .25 .2))
+	 (make-segment (make-vect .25 .2) (make-vect .2 .2))
+	 (make-segment (make-vect .2 .2) (make-vect .2 .1))
+	 (make-segment (make-vect .2 .1) (make-vect .3 .1))
+	 (make-segment (make-vect .3 .1) (make-vect .5 .5))
+	 (make-segment (make-vect .5 .5) (make-vect .7 .1))
+	 (make-segment (make-vect .7 .1) (make-vect .8 .1))
+	 (make-segment (make-vect .8 .1) (make-vect .8 .2))
+	 (make-segment (make-vect .8 .2) (make-vect .75 .2))
+	 (make-segment (make-vect .75 .2) (make-vect .4 .9))
+	 (make-segment (make-vect .4 .9) (make-vect .3 .9))
+	 (make-segment (make-vect .3 .9) (make-vect .3 .8))
+	 (make-segment (make-vect .3 .8) (make-vect .35 .8))
+	 (make-segment (make-vect .35 .8) (make-vect .45 .6)) )))
