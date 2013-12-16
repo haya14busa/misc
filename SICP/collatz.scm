@@ -1,0 +1,6 @@
+(define (collatz n)
+    (display n)
+    (display " -> ")
+    (cond ((= n 1) (display "END"))
+          ((= (modulo n 2) 0) (collatz (/ n 2)))
+          (else (collatz (+ (* n 3) 1)))))
