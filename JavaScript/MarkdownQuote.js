@@ -3,7 +3,7 @@ javascript:(function() {
     T=document.title;
     QText="> "+encodeURIComponent(document.getSelection());
     QLink="> -- <cite>["+T+"]"+"("+L+")";
-    Ptext=QText+"\r\r"+QLink;
+    Ptext=QText+'\r\n'+QLink;
     TextUrl="data:text/html;charset=UTF-8,
     <meta name='viewport' content='width=device-width user-scalable=no, initial-scale=1.0, minimum-scale=1.0'>
     <script src=http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js></script>
