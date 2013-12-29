@@ -8,6 +8,8 @@ Jekyll, GitHub Pages, Twitter Bootstrap全部便利だった。
 - [Vimプラグイン読書会](http://haya14busa.github.io/reading-vimplugin/)
 - GitHub: [haya14busa/reading-vimplugin](https://github.com/haya14busa/reading-vimplugin)
 
+注: URLは変わるかもしれません
+
 GitHub公式ドキュメント
 -----
 - [GitHub Pages](http://pages.github.com/#project_pages)
