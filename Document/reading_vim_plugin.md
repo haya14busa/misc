@@ -88,6 +88,25 @@ vimrc読書会で発言した人を集計するための bot です
 メンバー確認できる
 : http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc
 
+ymlの確認できる
+: http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/yml
+
+
+~~~
+=== 第2回 Vimプラグイン読書会 ===
+
+- 途中参加/途中離脱OK。声をかける必要はありません
+
+- 読む順はとくに決めないので、好きなように読んで好きなように発言しましょう
+
+- 特定の相手に発言/返事する場合は先頭に username: を付けます
+
+- 一通り読み終わったら、読み終わったことを宣言してください。終了の目安にします
+
+- ただの目安なので、宣言してからでも読み返して全然OKです
+
+読むプラグイン: https://github.com/rhysd/clever-f.vim/tree/04d828502a474909440ce0ddaad95ffe738fdbab
+~~~
 
 ### Chop
 [みんなでよってたかってコメントがつけられるコード共有サービス『Chop』 | 100SHIKI](http://www.100shiki.com/archives/2011/05/chop.html)
@@ -98,27 +117,17 @@ Example:
 ~~~
 
 
-
 vimrc読書会
 -----
 ~~~
 === 第13回 vimrc読書会 ===
-
 - 途中参加/途中離脱OK
-
 - 読む順はとくに決めないので、好きなように読んで好きなように発言しましょう
-
 - vimrc 内の特定位置を参照する場合は行番号で L100 のように指定します
-
 - 特定の相手に発言/返事する場合は先頭に username: を付けます
-
 - 一通り読み終わったら、読み終わったことを宣言してください。終了の目安にします
-
 - ただの目安なので、宣言してからでも読み返して全然OKです
-
 本日のvimrc: https://github.com/sorah/config/blob/master/vim/dot.vimrc
-
 DL用リンク: https://raw.github.com/sorah/config/master/vim/dot.vimrc
-
 それでは始めます！
 ~~~
