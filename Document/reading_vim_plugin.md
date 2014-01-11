@@ -90,7 +90,7 @@ vimrc読書会で発言した人を集計するための bot です
 
 ymlの確認できる
 : http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/yml
-
+  http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimplugin/yml
 
 ~~~
 === 第2回 Vimプラグイン読書会 ===
