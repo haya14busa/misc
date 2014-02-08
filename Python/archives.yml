@@ -1,0 +1,761 @@
+- author: alwei
+  date: 2012/07/10 23:00-
+  hash: 3760650625663f3b08f24bc75762ec843ca7e112
+  id: 1
+  links:
+  - http://d.hatena.ne.jp/thinca/20120713/1342116499
+  log: http://lingr.com/room/vim/archives/2012/07/10#message-10607857
+  members:
+  - LeafCage
+  - Lindan
+  - anekos
+  - bgnori
+  - d6rkaiz
+  - daisuzu
+  - ka
+  - manga_osyo
+  - rbtnn
+  - thinca
+  - ujihisa
+  raw_url: https://raw.github.com/alwei/dotfiles/3760650625663f3b08f24bc75762ec843ca7e112/.vimrc
+  url: https://github.com/alwei/dotfiles/blob/3760650625663f3b08f24bc75762ec843ca7e112/.vimrc
+- author: anekos
+  date: "2012/07/14(\u571F) 23:00-"
+  hash: 0afcd78455743a4d3fad31674136428052dc6ebe
+  id: 2
+  links:
+  - http://d.hatena.ne.jp/thinca/20120715/1342292425
+  - http://d.hatena.ne.jp/osyo-manga/20120716/1342444817
+  - http://d.hatena.ne.jp/kanno_kanno/20120714/1342286212
+  log: http://lingr.com/room/vim/archives/2012/07/14#message-10685723
+  members:
+  - Jagua
+  - KMNK
+  - Lindan
+  - NPoi
+  - Shaula
+  - Shougo
+  - anekos
+  - basyura
+  - bgnori
+  - bouzuya
+  - daisuzu
+  - deris0126
+  - guyon
+  - hamaco
+  - heavenshell
+  - kozo2
+  - manga_osyo
+  - phyllite
+  - raiden325
+  - rbtnn
+  - shim0mura
+  - shiracha
+  - symmet
+  - thinca
+  - wiredool
+  - yomi322
+  - yyatsuo
+  raw_url: https://raw.github.com/anekos/my-config/0afcd78455743a4d3fad31674136428052dc6ebe/.vimrc
+  url: https://github.com/anekos/my-config/blob/0afcd78455743a4d3fad31674136428052dc6ebe/.vimrc
+- author: sigwyg
+  date: "2012/07/22(\u65E5) 00:00-"
+  hash: 8c70c4032ebad90a8d92b76b1c5d732f28559e40
+  id: 3
+  links:
+  - http://d.hatena.ne.jp/thinca/20120722/1342898788
+  - http://d.hatena.ne.jp/osyo-manga/20120722/1342962261
+  - http://d.hatena.ne.jp/kanno_kanno/20120721/1342895699
+  log: http://lingr.com/room/vim/archives/2012/07/21#message-10858279
+  members:
+  - Jagua
+  - LeafCage
+  - Lindan
+  - Sig.
+  - anekos
+  - basyura
+  - bgnori
+  - kanno_kanno
+  - manga_osyo
+  - mattn
+  - raiden325
+  - rbtnn
+  - shim0mura
+  - symmet
+  - thinca
+  - umey111
+  - wiredool
+  raw_url: https://raw.github.com/sigwyg/dotfiles/8c70c4032ebad90a8d92b76b1c5d732f28559e40/.vimrc
+  url: https://github.com/sigwyg/dotfiles/blob/8c70c4032ebad90a8d92b76b1c5d732f28559e40/.vimrc
+- author: basyura
+  date: "2012/07/28(\u571F) 23:00-"
+  hash: ee086f25b8c58b8ea6bf025d26ebc11ae50e6ca1
+  id: 4
+  links:
+  - http://d.hatena.ne.jp/thinca/20120729/1343570370
+  - http://d.hatena.ne.jp/osyo-manga/20120729/1343493297
+  - http://d.hatena.ne.jp/kanno_kanno/20120728/1343495908
+  log: http://lingr.com/room/vim/archives/2012/07/28#message-11029511
+  members:
+  - Jagua
+  - Lindan
+  - Shaula
+  - Shougo
+  - anekos
+  - basyura
+  - bouzuya
+  - daisuzu
+  - kanno_kanno
+  - manga_osyo
+  - rbtnn
+  - shiracha
+  - thinca
+  - umeyee
+  - wiredool
+  - "\u767D\u5E3D\u5B50"
+  raw_url: https://raw.github.com/basyura/vimfiles/ee086f25b8c58b8ea6bf025d26ebc11ae50e6ca1/rc/vimrc
+  url: https://github.com/basyura/vimfiles/blob/ee086f25b8c58b8ea6bf025d26ebc11ae50e6ca1/rc/vimrc
+- author: osyo-manga
+  date: "2012/08/04(\u571F) 23:00-"
+  hash: 9ef0ca9757abcdaa11c76024aa551f0b473624bf
+  id: 5
+  links:
+  - http://d.hatena.ne.jp/thinca/20120805/1344111915
+  - http://d.hatena.ne.jp/osyo-manga/20120805/1344157921
+  - http://d.hatena.ne.jp/kanno_kanno/20120805/1344115812
+  log: http://lingr.com/room/vim/archives/2012/08/04#message-11191304
+  members:
+  - AmaiSaeta
+  - Jagua
+  - LeafCage
+  - Lindan
+  - Shaula
+  - Shougo
+  - TKinugasa
+  - _nishigori
+  - basyura
+  - bouzuya
+  - daisuzu
+  - deris0126
+  - hamaco
+  - kanno_kanno
+  - manga_osyo
+  - mattn
+  - raiden325
+  - rbtnn
+  - sgur
+  - thinca
+  - umeyee
+  - wiredool
+  - yomi322
+  raw_url: https://raw.github.com/osyo-manga/vimrc/9ef0ca9757abcdaa11c76024aa551f0b473624bf/vimrcs/default/vimrc
+  url: https://github.com/osyo-manga/vimrc/blob/9ef0ca9757abcdaa11c76024aa551f0b473624bf/vimrcs/default/vimrc
+- author: rhysd
+  date: "2012/08/11(\u571F) 23:00-"
+  hash: 8228ebaeab0e022ee7161d0eb9fc633876b0be41
+  id: 6
+  links:
+  - http://d.hatena.ne.jp/osyo-manga/20120812/1344702200
+  log: http://lingr.com/room/vim/archives/2012/08/11#message-11349514
+  members:
+  - Jagua
+  - Lindan
+  - Shougo
+  - wiredool
+  - deris0126
+  - rbtnn
+  - ryutorion
+  - mattn
+  - manga_osyo
+  - thinca
+  - shiracha
+  raw_url: https://raw.github.com/rhysd/dotfiles/8228ebaeab0e022ee7161d0eb9fc633876b0be41/vimrc
+  url: https://github.com/rhysd/dotfiles/blob/8228ebaeab0e022ee7161d0eb9fc633876b0be41/vimrc
+- author: ebc-2in2crc
+  date: "2012/08/18(\u571F) 23:00-"
+  hash: f1ed88bf0d3668ebf8d702def40625d435f545cd
+  id: 7
+  links:
+  - http://d.hatena.ne.jp/osyo-manga/20120819/1345340766
+  - http://d.hatena.ne.jp/ebc_2in2crc/20120819/1345380039
+  log: http://lingr.com/room/vim/archives/2012/08/18#message-11492279
+  members:
+  - AmaiSaeta
+  - Asaka
+  - Lindan
+  - Shougo
+  - anekos
+  - basyura
+  - cointoss1973
+  - daisuzu
+  - deris0126
+  - ebc_2in2crc
+  - manga_osyo
+  - raiden325
+  - rbtnn
+  - sgur
+  - tek_koc
+  - thinca
+  - wiredool
+  - y_sumida
+  - yomi322
+  raw_url: https://raw.github.com/ebc-2in2crc/vimrc/f1ed88bf0d3668ebf8d702def40625d435f545cd/_vimrc
+  url: https://github.com/ebc-2in2crc/vimrc/blob/f1ed88bf0d3668ebf8d702def40625d435f545cd/_vimrc
+- author: rbtnn
+  date: "2012/08/25(\u571F) 23:00-"
+  hash: a92dae61200f50bd771f3a30c4f5fa06738c9aac
+  id: 8
+  links: []
+  log: http://lingr.com/room/vim/archives/2012/08/25#message-11620456
+  members:
+  - Jagua
+  - LeafCage
+  - Lindan
+  - Shougo
+  - daisuzu
+  - deris0126
+  - ebc_2in2crc
+  - grauwoelfchen
+  - kocha2012
+  - manga_osyo
+  - raa0121
+  - rbtnn
+  - tek_koc
+  - thinca
+  - ujihisa
+  - umeyee
+  - wiredool
+  - y_sumida
+  - yomi322
+  - yyatsuo
+  raw_url: https://raw.github.com/rbtnn/reading-vimrc/a92dae61200f50bd771f3a30c4f5fa06738c9aac/.vimrc
+  url: https://github.com/rbtnn/reading-vimrc/blob/a92dae61200f50bd771f3a30c4f5fa06738c9aac/.vimrc
+- author: ujihisa
+  date: "2012/09/01(\u571F) 23:00-"
+  hash: 8c513ac93429e27ce27e6020a7d48e728b809169
+  id: 9
+  links: []
+  log: http://lingr.com/room/vim/archives/2012/09/01#message-11718033
+  members:
+  - Jagua
+  - LeafCage
+  - Shaula
+  - Shougo
+  - anekos
+  - daisuzu
+  - deris0126
+  - ebc_2in2crc
+  - grauwoelfchen
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - thinca
+  - ujihisa
+  - umeyee
+  - wiredool
+  - yomi322
+  raw_url: https://raw.github.com/ujihisa/config/8c513ac93429e27ce27e6020a7d48e728b809169/_vimrc
+  url: https://github.com/ujihisa/config/blob/8c513ac93429e27ce27e6020a7d48e728b809169/_vimrc
+- author: LeafCage
+  date: "2012/09/22(\u571F) 23:00-"
+  hash: fa632dee5afaadf7e61ad2cc180f765f2e3a3c01
+  id: 12
+  links:
+  - http://d.hatena.ne.jp/leafcage/20120923/1348403652
+  log: http://lingr.com/room/vim/archives/2012/09/22#message-12081555
+  members:
+  - Jagua
+  - LeafCage
+  - Lindan
+  - bgnori
+  - d6rkaiz
+  - deris0126
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - thinca
+  - ujihisa
+  - wiredool
+  raw_url: https://raw.github.com/LeafCage/dotfiles/fa632dee5afaadf7e61ad2cc180f765f2e3a3c01/.vimrc
+  url: https://github.com/LeafCage/dotfiles/blob/fa632dee5afaadf7e61ad2cc180f765f2e3a3c01/.vimrc
+- author: daisuzu
+  date: "2012/12/08(\u571F) 23:00-"
+  hash: 4e50bc5ec2b4a77f78f97f3c0cada8b08dff1031
+  id: 23
+  links:
+  - http://d.hatena.ne.jp/leafcage/20121218/1355804737
+  log: http://lingr.com/room/vim/archives/2012/12/08#message-13176343
+  members:
+  - deris0126
+  - Lindan
+  - manga_osyo
+  - daisuzu
+  - rbtnn
+  - wiredool
+  - thinca
+  raw_url: https://raw.github.com/daisuzu/dotvim/4e50bc5ec2b4a77f78f97f3c0cada8b08dff1031/.vimrc
+  url: https://github.com/daisuzu/dotvim/blob/4e50bc5ec2b4a77f78f97f3c0cada8b08dff1031/.vimrc
+- author: magicdrive
+  date: "2012/12/15(\u571F) 23:00-"
+  hash: 1921a3d724d157d0dd6cdadd6ae358bf64eaf286
+  id: 24
+  links:
+  - http://d.hatena.ne.jp/leafcage/20121218/1355804737
+  log: http://lingr.com/room/vim/archives/2012/12/15#message-13266634
+  members:
+  - Jagua
+  - Lindan
+  - wiredool
+  - bool_fool
+  - yomi322
+  - TKinugasa
+  - basyura
+  - jakalada
+  - magicdrive
+  - ujihisa
+  - manga_osyo
+  - yuya_presto
+  - thinca
+  raw_url: https://raw.github.com/magicdrive/vimfiles/1921a3d724d157d0dd6cdadd6ae358bf64eaf286/vimrc
+  url: https://github.com/magicdrive/vimfiles/blob/1921a3d724d157d0dd6cdadd6ae358bf64eaf286/vimrc
+- author: cohama
+  date: "2013/01/19(\u571F) 23:00-"
+  hash: 284b2c2a4af9372aea257fd2465cc1eb8d52e584
+  id: 29
+  links:
+  - http://d.hatena.ne.jp/leafcage/20130120/1358608137
+  log: http://lingr.com/room/vim/archives/2013/01/19#message-13587673
+  members:
+  - Jagua
+  - KoRoN
+  - LeafCage
+  - Mi_Sawa
+  - Shougo
+  - aoisensi
+  - bool_fool
+  - chikatoike
+  - cohama
+  - endings
+  - jakalada
+  - manga_osyo
+  - mattn
+  - raiden325
+  - rbtnn
+  - thinca
+  - tyru
+  - yuya_presto
+  raw_url: https://raw.github.com/cohama/.vim/284b2c2a4af9372aea257fd2465cc1eb8d52e584/.vimrc
+  url: https://github.com/cohama/.vim/blob/284b2c2a4af9372aea257fd2465cc1eb8d52e584/.vimrc
+- author: kannokanno
+  date: "2013/03/23(\u571F) 23:00-"
+  hash: c1818803788bb4af6dd3cd3aec1d4b3205c035cc
+  id: 38
+  links:
+  - http://d.hatena.ne.jp/kanno_kanno/20130330/1364619154
+  log: http://lingr.com/room/vim/archives/2013/03/23#message-14449036
+  members:
+  - AmaiSaeta
+  - bouzuya
+  - cohama
+  - deris0126
+  - itchyny
+  - kanno_kanno
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - thinca
+  - wiredool
+  - yuya_presto
+  raw_url: https://raw.github.com/kannokanno/dotfiles/c1818803788bb4af6dd3cd3aec1d4b3205c035cc/.vimrc
+  url: https://github.com/kannokanno/dotfiles/blob/c1818803788bb4af6dd3cd3aec1d4b3205c035cc/.vimrc
+- author: Kocha
+  date: "2013/07/27(\u571F) 23:00-"
+  hash: 7cacf9390c5d1025909ec0109e7f264670368596
+  id: 56
+  links:
+  - http://d.hatena.ne.jp/leafcage/20130727/1374935175
+  log: http://lingr.com/room/vim/archives/2013/07/27#message-16017813
+  members:
+  - DeaR
+  - LeafCage
+  - cohama
+  - deris0126
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - syngan
+  - thinca
+  raw_url: https://raw.github.com/Kocha/dotfiles/7cacf9390c5d1025909ec0109e7f264670368596/.vimrc
+  url: https://github.com/Kocha/dotfiles/blob/7cacf9390c5d1025909ec0109e7f264670368596/.vimrc
+- author: spf13
+  date: "2013/08/03(\u571F) 23:00-"
+  hash: 0e4a4ab22d7c61ae53468153a5cb6a810065844b
+  id: 57
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/08/03#message-16085863
+  members:
+  - cohama
+  - deris0126
+  - hokorobi
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - s_of_p
+  - thinca
+  - ujihisa
+  - unmoremaster
+  raw_url: https://raw.github.com/spf13/spf13-vim/0e4a4ab22d7c61ae53468153a5cb6a810065844b/.vimrc
+  url: https://github.com/spf13/spf13-vim/blob/0e4a4ab22d7c61ae53468153a5cb6a810065844b/.vimrc
+- author: nishigori
+  date: "2013/08/10(\u571F) 23:00-"
+  hash: 390d8934f44a58d52655a2db7cde40e33d55bd68
+  id: 58
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/08/10/#message-16164706
+  members:
+  - IMAGEDRIVE
+  - Lindan
+  - _nishigori
+  - cohama
+  - deris0126
+  - hecomi
+  - manga_osyo
+  - mopp
+  - sgur
+  - thinca
+  raw_url: https://raw.github.com/nishigori/dotfiles/390d8934f44a58d52655a2db7cde40e33d55bd68/.vimrc
+  url: https://github.com/nishigori/dotfiles/blob/390d8934f44a58d52655a2db7cde40e33d55bd68/.vimrc
+- author: aereal
+  date: "2013/08/17(\u571F) 23:00-"
+  hash: 0e6ca0ff5eedacf5dae105df4b3143cdbb38c74c
+  id: 59
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/08/17/#message-16247969
+  members:
+  - DeaR
+  - Lindan
+  - aereal
+  - bgnori
+  - deris0126
+  - hecomi
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - s_of_p
+  - supermomonga
+  - thinca
+  - ujihisa
+  - unmoremaster
+  raw_url: https://raw.github.com/aereal/dotfiles/0e6ca0ff5eedacf5dae105df4b3143cdbb38c74c/.vimrc
+  url: https://github.com/aereal/dotfiles/blob/0e6ca0ff5eedacf5dae105df4b3143cdbb38c74c/.vimrc
+- author: sjl
+  date: "2013/08/24(\u571F) 23:00-"
+  hash: 10f4bf76eddda27da7e273fc26a31a96aef97b9d
+  id: 60
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/08/24/#message-16331254
+  members:
+  - DeaR
+  - Lindan
+  - Mi_Sawa
+  - Shougo
+  - anekos
+  - cohama
+  - crazymaster
+  - deris0126
+  - hecomi
+  - manga_osyo
+  - mattn
+  - mopp
+  - raa0121
+  - rbtnn
+  - sgur
+  - supermomonga
+  - thinca
+  - unmoremaster
+  - wiredool
+  raw_url: https://bitbucket.org/sjl/dotfiles/src/10f4bf76eddda27da7e273fc26a31a96aef97b9d/vim/vimrc
+  url: https://bitbucket.org/sjl/dotfiles/src/10f4bf76eddda27da7e273fc26a31a96aef97b9d/vim/vimrc
+- author: kmizu
+  date: "2013/08/31(\u571F) 23:00-"
+  hash: e3777116898e3f2d770588faaedc658e5f3f2da9
+  id: 61
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/08/31/#message-16445892
+  members:
+  - Jagua
+  - Lindan
+  - anekos
+  - boolfool
+  - cohama
+  - kamichidu
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - s_of_p
+  - sgur
+  - syngan
+  - thinca
+  raw_url: https://raw.github.com/kmizu/dotfiles/e3777116898e3f2d770588faaedc658e5f3f2da9/.vimrc
+  url: https://github.com/kmizu/dotfiles/blob/e3777116898e3f2d770588faaedc658e5f3f2da9/.vimrc
+- author: joedicastro
+  date: "2013/09/07(\u571F) 23:00-"
+  hash: 45185501ab4cac0fad4e1918d8c0f9aa2faa94e1
+  id: 62
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/09/07/#message-16547473
+  members:
+  - LeafCage
+  - alpaca_taichou
+  - anekos
+  - cohama
+  - deris0126
+  - haya14busa
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - s_of_p
+  - sgur
+  - supermomonga
+  - thinca
+  - ujihisa
+  - unmoremaster
+  raw_url: https://raw.github.com/joedicastro/dotfiles/45185501ab4cac0fad4e1918d8c0f9aa2faa94e1/vim/vimrc
+  url: https://github.com/joedicastro/dotfiles/blob/45185501ab4cac0fad4e1918d8c0f9aa2faa94e1/vim/vimrc
+- author: bootleq
+  date: "2013/09/14(\u571F) 23:00-"
+  hash: c75c58f2d18d22667f1d59d46fe567d38b2f8062
+  id: 63
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/09/14/#message-16656144
+  members:
+  - DeaR
+  - Lindan
+  - anekos
+  - cohama
+  - deris0126
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - s_of_p
+  - sgur
+  - supermomonga
+  - thinca
+  - ujihisa
+  - unmoremaster
+  raw_url: https://raw.github.com/bootleq/vimrc_human/c75c58f2d18d22667f1d59d46fe567d38b2f8062/.vimrc
+  url: https://github.com/bootleq/vimrc_human/blob/c75c58f2d18d22667f1d59d46fe567d38b2f8062/.vimrc
+- author: bootleq
+  date: "2013/09/21(\u571F) 23:00-"
+  hash: c75c58f2d18d22667f1d59d46fe567d38b2f8062
+  id: 64
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/09/21/#message-16763200
+  members:
+  - anekos
+  - cohama
+  - crazymaster
+  - deris0126
+  - haya14busa
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - s_of_p
+  - sgur
+  - supermomonga
+  - thinca
+  - yasu_n
+  raw_url: https://raw.github.com/bootleq/vimrc_human/c75c58f2d18d22667f1d59d46fe567d38b2f8062/.vimrc
+  url: https://github.com/bootleq/vimrc_human/blob/c75c58f2d18d22667f1d59d46fe567d38b2f8062/.vimrc
+- author: saihoooooooo
+  date: "2013/09/28(\u571F) 23:00-"
+  hash: 32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb
+  id: 65
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/09/28/#message-16851940
+  members:
+  - Lindan
+  - anekos
+  - boolfool
+  - cohama
+  - deris0126
+  - mattn
+  - s_of_p
+  - saihoooooooo
+  - supermomonga
+  - thinca
+  - yasu_n
+  raw_url: https://raw.github.com/saihoooooooo/dotfiles/32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb/.vimrc
+  url: https://github.com/saihoooooooo/dotfiles/blob/32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb/.vimrc
+- author: saihoooooooo
+  date: "2013/10/05(\u571F) 23:00-"
+  hash: 32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb
+  id: 66
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/10/05/#message-16938477
+  members:
+  - Lindan
+  - Shougo
+  - cohama
+  - deris0126
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - saihoooooooo
+  - sgur
+  - supermomonga
+  - thinca
+  - unmoremaster
+  raw_url: https://raw.github.com/saihoooooooo/dotfiles/32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb/.vimrc
+  url: https://github.com/saihoooooooo/dotfiles/blob/32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb/.vimrc
+- author: iyuuya
+  date: "2013/10/12(\u571F) 23:00-"
+  hash: bf4d369acd00f086f5edfcbf007beecb08519039
+  id: 67
+  links:
+  - http://chopapp.com/#5tib5f2m
+  log: http://lingr.com/room/vim/archives/2013/10/12/#message-17037339
+  members:
+  - LeafCage
+  - Lindan
+  - anekos
+  - cohama
+  - crazymaster
+  - deris0126
+  - iyuuya
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - sgur
+  - thinca
+  - ujihisa
+  - unmoremaster
+  raw_url: https://raw.github.com/iyuuya/bksd/bf4d369acd00f086f5edfcbf007beecb08519039/vim/dot.vimrc
+  url: https://github.com/iyuuya/bksd/blob/bf4d369acd00f086f5edfcbf007beecb08519039/vim/dot.vimrc
+- author: alpaca-tc
+  date: "2013/10/19(\u571F) 23:00-"
+  hash: bd82f3673ebc76299305156ac4e8c3f9e9f23374
+  id: 68
+  links:
+  - http://chopapp.com/#pwgstoq4
+  log: http://lingr.com/room/vim/archives/2013/10/19/#message-17110090
+  members:
+  - Lindan
+  - alpaca_taichou
+  - crazymaster
+  - deris0126
+  - iyuuya
+  - manga_osyo
+  - rbtnn
+  - thinca
+  - ujihisa
+  - unmoremaster
+  raw_url: https://raw.github.com/alpaca-tc/dotfiles/bd82f3673ebc76299305156ac4e8c3f9e9f23374/.vim/vimrc
+  url: https://github.com/alpaca-tc/dotfiles/blob/bd82f3673ebc76299305156ac4e8c3f9e9f23374/.vim/vimrc
+- author: alpaca-tc
+  date: "2013/10/26(\u571F) 23:00-"
+  hash: bd82f3673ebc76299305156ac4e8c3f9e9f23374
+  id: 69
+  links:
+  - http://chopapp.com/#pwgstoq4
+  log: http://lingr.com/room/vim/archives/2013/10/26/#message-17189944
+  members:
+  - alpaca_taichou
+  - cohama
+  - deris0126
+  - manga_osyo
+  - mattn
+  - supermomonga
+  - thinca
+  - yo_i_jewelry
+  - yuya_presto
+  raw_url: https://raw.github.com/alpaca-tc/dotfiles/bd82f3673ebc76299305156ac4e8c3f9e9f23374/.vim/vimrc
+  url: https://github.com/alpaca-tc/dotfiles/blob/bd82f3673ebc76299305156ac4e8c3f9e9f23374/.vim/vimrc
+- author: Rykka
+  date: "2013/11/02(\u571F) 23:00-"
+  hash: b7507cfc46895d38b5965a0cc17f62ebaae45f73
+  id: 70
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/11/02/#message-17255799
+  members:
+  - Lindan
+  - cohama
+  - deris0126
+  - manga_osyo
+  - rbtnn
+  - thinca
+  - unmoremaster
+  raw_url: https://raw.github.com/Rykka/dotfiles/b7507cfc46895d38b5965a0cc17f62ebaae45f73/.vimrc
+  url: https://github.com/Rykka/dotfiles/blob/b7507cfc46895d38b5965a0cc17f62ebaae45f73/.vimrc
+- author: justinmk
+  date: "2013/11/09(\u571F) 23:00-"
+  hash: 773eef9a3b94d1936d3b9db2bc712f97510f770c
+  id: 71
+  links: []
+  log: http://lingr.com/room/vim/archives/2013/11/09/#message-17324829
+  members:
+  - bori_so1
+  - deris0126
+  - mattn
+  - rbtnn
+  - sgur
+  - supermomonga
+  - thinca
+  - unmoremaster
+  raw_url: https://raw.github.com/justinmk/config/773eef9a3b94d1936d3b9db2bc712f97510f770c/.vimrc
+  url: https://github.com/justinmk/config/blob/773eef9a3b94d1936d3b9db2bc712f97510f770c/.vimrc
+- author: portown
+  date: "2013/11/23(\u571F) 23:00-"
+  hash: 530a516596a49272d3bfaf082a69bae5baa0bced
+  id: 73
+  links:
+  - http://chopapp.com/#1tvopsda
+  log: http://lingr.com/room/vim/archives/2013/11/23/#message-17465568
+  members:
+  - Lindan
+  - Shougo
+  - cohama
+  - crazymaster
+  - deris0126
+  - iyuuya
+  - kamichidu
+  - lisia
+  - manga_osyo
+  - mattn
+  - mopp
+  - portown
+  - rbtnn
+  - supermomonga
+  - thinca
+  raw_url: https://raw.github.com/portown/dotfiles/530a516596a49272d3bfaf082a69bae5baa0bced/.vimrc
+  url: https://github.com/portown/dotfiles/blob/530a516596a49272d3bfaf082a69bae5baa0bced/.vimrc
+- author: creasty
+  date: "2013/11/30(\u571F) 23:00-"
+  hash: bbd8b60af659133909096ba5197d4812f4589257
+  id: 74
+  links:
+  - http://chopapp.com/#6vvv9f4p
+  log: http://lingr.com/room/vim/archives/2013/11/30/#message-17696493
+  members:
+  - DeaR
+  - KoRoN
+  - Lindan
+  - Yuki Iwanaga
+  - cohama
+  - crazymaster
+  - deris0126
+  - haya14busa
+  - lisia
+  - manga_osyo
+  - mattn
+  - mopp
+  - rbtnn
+  - sgur
+  - supermomonga
+  - thinca
+  raw_url: https://raw.github.com/creasty/dotfiles/bbd8b60af659133909096ba5197d4812f4589257/_vimrc
+  url: https://github.com/creasty/dotfiles/blob/bbd8b60af659133909096ba5197d4812f4589257/_vimrc
