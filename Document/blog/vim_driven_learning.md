@@ -1,19 +1,9 @@
-1年間『Vim駆動学習』してきて楽しかったのでオススメしたい
+1年間『Vim駆動学習』してきて最高に楽しかったのでオススメしたい
 =====
-<!-- Vim駆動学習を始めよう! Vim Driven Learning -->
-
-##タイトル案
-- 『Vim駆動学習』を1年間続けたらGitHubでスターover 1000のリポジトリで開発できることになった。
-- またはそれ以上の物が得られたという話。
-- 『Vim駆動学習』のススメ
-- 『Vim駆動学習』最高!
-- 1年間Vimを使ってよかったこと
 
 この記事は [Vim Advent Calendar 2013](http://atnd.org/events/45072) 78日目の記事になります。私事ですが本日2014/02/16日、Vimmerとして1歳の誕生日(Vim歴換算)を迎えましたので個人的な話題を含むVACの記事を書かせていただきます。そういうものが嫌いな方はブラウザバック推奨です。
 
-vimtutorを終えた一年前のツイート:
-
-https://twitter.com/haya14busa/statuses/302754464400568320?tw_i=302754464400568320&tw_e=details&tw_p=archive
+[vimtutorを終えた一年前のツイート](https://twitter.com/haya14busa/statuses/302754464400568320?tw_i=302754464400568320&tw_e=details&tw_p=archive)
 
 (ツイートの文面が恥ずかしい...)
 
@@ -25,12 +15,9 @@ Vim歴1年、めでたいです。
 
 (最近はVim駆動でVim自体を学んでいる割合が高すぎるのでそろそろVim以外の進捗もだしていこうと反省はしています...)
 
-<!-- そして、『Vim駆動』で学習してきて自分自身良かったと思っています。 -->
-<!-- 付け加えると、別に駆動開発でもよいです。 -->
-
 『Vim駆動学習』をおすすめしたい
 -----
-### GitHub で Stars over 1000 のリポジトリをメイン開発できる
+### Vim駆動学習によってGitHub で Stars over 1000 のリポジトリをメイン開発できた
 - vim-easymotionというカーソル移動系のVimプラグインです。
 - Repository: [https://github.com/Lokaltog/vim-easymotion](https://github.com/Lokaltog/vim-easymotion)
 
@@ -39,9 +26,6 @@ Vim歴1年、めでたいです。
 Vimを好きにならなかったらこんな経験はいまの時点の僕にはおそらくできていませんでした。
 
 また海外のユーザーの方もよく使ってくれている、むしろもともと日本人より海外勢のユーザーが多いプラグインなので無い英語力を引っ張りだして無理やり使ういい機会にもなったりもします。
-
-<!-- 主観ですが同じくらいの経験で他の言語でこれほどのユーザーがいる開発を個人でするにはまずプログラミング力が足りていないと思うので Vim プラグインという手軽さがなせる技かなぁと思います。 -->
-<!-- また単にプロジェクトを引き継いでメンテナンスしているというだけではないのでちょっとずつスターも増えて -->
 
 ### Vimのコミュニティが面白い
 
@@ -60,13 +44,12 @@ GitHubでスターもover 1000のリポジトリがどうだと言ったこと�
 いろんなVimmerがVimを便利にしたり、Vimプラグインを作ったりメンテしたり...
 
 Vimmerたちの活動には見ていて本当に圧巻されます。
-
 Vim自体が好きなのは勿論なのですが、Vimをとりまく多種多様な人たちあってのVimでもあり、僕はその人達も含めてVimが好きです。
 
 またVim以外の活動のバイタリティーがすごいVimmerもたくさんいて、Vimmerはただ「vim!vim!」と言ってるだけでない....ない...!ということをここで言っておきます(震え)。
 
-### 他にもたくさん『Vim駆動』で得られるよ!
-たとえば、Web上の記事を読むより公式ドキュメントを読む大事さはVimの膨大なhelpを目の当たりにすれば自然と気が付きますし、Vimはテキストを効率的にエディットするもの...**Vimはテキストを効率的にエディットする**ものですから、テキスト編集、プログラミングなどにおいて、Vimを極めればそれ以前と比べて数百倍の生産性(妄想)を得ることができますし、決してVim scriptにハマってしまって逆に生産性が低下するなんてことはありません!!!
+### 他にもたくさん『Vim駆動』で得られるものがある
+たとえば、Web上の記事よりも公式ドキュメントを読むという大事さはVimの膨大なhelpを目の当たりにすれば自然と気が付きますし、Vimはテキストを効率的にエディットするもの...**Vimはテキストを効率的にエディットする**ものですから、テキスト編集、プログラミングなどにおいて、Vimを極めればそれ以前と比べて数百倍の生産性(妄想)を得ることができます。決してVim scriptにハマってしまって逆に生産性が低下するなんてことはありません!!!
 
 そして個人的には**プログラミングが楽しい**とVimによってより強く思えるようになりました。Vim駆動最高ですね。
 
@@ -75,7 +58,6 @@ vimrcの記録
 ここで1年間のvimrcの軌跡をちょっと振り返ってみました
 
 Vimの戦闘力は単純にvimrcの行数が多ければいいというわけではありませんが１つの指標としては面白いです
-<!-- 調べてみました。 -->
 
 一応コメントや空行を無視して正味の行数を測ってくれるScouterの情報も載せます。
 
@@ -90,15 +72,15 @@ Vimの戦闘力は単純にvimrcの行数が多ければいいというわけで
 
 ### git & GitHub 使い始めのvimrc
 - Date: 2013/07/16
-- Source: https://github.com/haya14busa/dotfiles/blob/2f3395fb468892764f69e4126e24c11b78a9cad3/.vimrc
+- Source: [https://github.com/haya14busa/dotfiles/blob/2f3395fb468892764f69e4126e24c11b78a9cad3/.vimrc](https://github.com/haya14busa/dotfiles/blob/2f3395fb468892764f69e4126e24c11b78a9cad3/.vimrc)
 - Lines:205
 - Scouter:156
 
-大体半年後ですがあんまり増えてないですね。gitの情報として残っている公式記録としては最古のvimrcになりますね。
+大体半年後ですがあんまり増えてないですね。gitの情報として残っている公式記録としては最古のvimrcです。
 
 ### 現在のvimrc
 - Date: 2014/02/16
-- Source: https://github.com/haya14busa/dotfiles/tree/97a79c8331c5a869730d96ee321219df84becd62
+- Source: [https://github.com/haya14busa/dotfiles/tree/97a79c8331c5a869730d96ee321219df84becd62](https://github.com/haya14busa/dotfiles/tree/97a79c8331c5a869730d96ee321219df84becd62)
 - Lines: 2794
 - Scouter: 1296
 
@@ -123,70 +105,38 @@ vimrc読書会は最初はVimmer怖いし、何が書かれているかも、何
 ### 他人のvimrcをパクる
 vimrc読書会ともかぶるのですが、すでにvimrc読書会で読まれたVim力の高い周りのVimmerのvimrcなどを個別に参考にしたりすると、より手っ取り早くvimrc力が上がると思います。また、プラグインの設定などでは、そのプラグインの作者のvimrcがREADMEやhelpよりも参考になるといった事案もあるのでちょっとそのプラグインの設定部分だけ盗み見るとかするのも面白いかなと思います。
 
-1年間どうやってVimを学んだか
+1年間どうやってVimを学んできたか
 -----
 vimrcとも関連していますね。
-
-### vimtutor
-最初はvimtutor
 
 ### helpを読む
 参考: [Vimのhelpを快適に引こう « haya14busa](http://haya14busa.com/reading-vim-help/)
 
 Vimのことはたいていhelpに載っているので、下手にWEB上の記事を読むよりもhelpをスラスラと引けるようになったほうが格段にVim力が上がりやすくなります。なるべく速くhelpの引き方は憶えて使いこなせるようになったほうが後々のためになります。
 
-### 実践Vim(Plactical Vim)
+### 実践Vimを読む
+<a href="http://www.amazon.co.jp/gp/product/4048916599/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=4048916599&linkCode=as2&tag=haya14busa-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4048916599&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=haya14busa-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=haya14busa-22&l=as2&o=9&a=4048916599" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-### Vim Advent Calendarを読む/書く
+実践Vimは本当にオススメです。vimtutorが終わってからすぐ読んでもいいのではないかという話を聞いたことがありますが、本当にそれぐらい初期に読んでも絶対ためになると思います。素のVimについてのいいところを十二分に、体系的に解説してくれている良書です。ドットによるリピートやテキストオブジェクトなどVimの便利な機能をあますことなく解説してくれるし、Vim的な編集の思考法などもこの本によって学ぶことができます。僕は実践VimによってVimへの興味が数段上がりました。
 
-### Lingrで質問する/話を眺める
-
-- vimrc読書会
-- Vimプラグイン読書会
-- その他Vimに関する記事
-- VimConf2013
-- 番外編: 英語,スクリーンキャスト
-  - reddit, vim\_dev, screencaset
-
-Outline
-====
-- vimを使ってちょうど一年
-- プログラミング歴はvim歴プラス半年ほど
-- プログラミング力の向上
-- プログラミングが楽しくなる
-- 一生使える物。学習コストを差し引いてもお釣りが絶対くる
-- vim-easymotion, GitHub stars over 1000のリポジトリでメインで開発しています!乗っ取り
-- 英語,ライセンス,テスト
-- gitやtmuxもvimを覚えてから始めた
-- Vimプラグイン読書会を運営
-- Vimのヘルプを翻訳(オプション1つだけ)
-- GitHubのCurrent Streak続けてます
-- Vimをはじめた動機
-- Vim活記録 -> How to learn vim
+### Vim Advent CalendarなどVim記事を読む/書く
+学んだらアウトプットするとよいというのはVimに限りませんが。Vim Advent Calendarとして書けば間違っていれば指摘が入るし、一定数の人は読んでくれるので
 
 
+### Lingrやvim-jp,TwitterなどなどでVim活する
+上述したように、いろんなところでいろんな方達が活動しているので、そこで割と気軽に質問したりアドバイスをもらったりできるのは強みだと思います。特にLingrだと気軽に聞けて良いと思います。
 
-どうやってVim pluginを開発しはじめるか
+### Vimの勉強会などに参加する
+僕は[VimConf2013](http://vimconf.vim-jp.org/2013/)に参加しただけで、僕は勉強会にたくさん参加したというわけではありませんが、東京を中心として地方でもVimに関する勉強会がたまに開催されているので参加すると楽しいと思います。(関西圏で開催されないかなー...ﾁﾗｯ)
+
+### Vim プラグイン開発に手を出してみる
+Vimが好きになってくるとやはりプラグインを自分で作ってみたいと思うようになるかと思います。そういう時は
+[Vimプラグイン読書会](http://haya14busa.github.io/reading-vimplugin/)に参加するとよいです。
+
+今のところ月に一回のペースでVimプラグイン読書会が開催されており、誰かのプラグインを読んであれこれ言っています。もともと、Vimプラグインを作ってみたい初心者向けに始まったので、作ってみたい！と思ったら気軽に参加して読んでみたりあれこれ質問したりすることをオススメします。
+
+自分でプラグインを開発するというだけでなく、vimrcや使っているプラグインへの理解が進んだりするといったメリットもあるので、プラグインとか難しいとか考えずに参加してみてもよいかなと思います。
+
+まとめ
 -----
-- vimrc読書会
-- Vimプラグイン読書会
-- LingrやTwitterで上級Vimmerに教えてもらう
-- vitalなどライブラリを使わせてもらう
-
-1年間使ってみて選ぶおすすめプラグイン10選
------
-1年間使ってみて選ぶおすすめvimrc Tips10選
------
-
-Vimのここが好き
------
-- テキストオブジェクト(textobject)
-- 繰り返し操作('.' repeat, macro)
-- コミュニティーが活発
-  - Lingr
-  - vim-jp
-- ubiqutious
-
-MEMO
-----
-- Lingr初発言: http://lingr.com/room/vim/archives/2013/09/30
+[Vim Advent Calendar 2013 : Vim を使っている/始めたいなら読んでおきたい Web の記事 - C++でゲームプログラミング](http://d.hatena.ne.jp/osyo-manga/20131201/1385823937)
