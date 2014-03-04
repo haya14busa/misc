@@ -74,5 +74,11 @@ def main():
     print(next(i))  # -> 2
     print(next(i))  # -> 3
 
+    print('==========')
+    print('enumerate()')
+    fibo3 = IterFibonacchi(1000)
+    for i, fibo in enumerate(fibo3):
+        print(str(i).ljust(2, ' ') + ' : ' + str(fibo))
+
 if __name__ == '__main__':
     main()
