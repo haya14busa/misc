@@ -91,9 +91,10 @@ vimrc読書会で発言した人を集計するための bot です
 ymlの確認できる
 : http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/yml
   http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimplugin/yml
+  http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimrc/markdown
 
 ~~~
-=== 第2回 Vimプラグイン読書会 ===
+=== 第100回 Vimプラグイン読書会 ===
 - 途中参加/途中離脱OK。声をかける必要はありません
 - 読む順はとくに決めないので、好きなように読んで好きなように発言しましょう
 - 特定の相手に発言/返事する場合は先頭に username: を付けます

@@ -3,7 +3,7 @@
 
 この記事は [Vim Advent Calendar 2013](http://atnd.org/events/45072) 78日目の記事になります。私事ですが本日2014/02/16日、Vimmerとして1歳の誕生日(Vim歴換算)を迎えましたので個人的な話題を含むVACの記事を書かせていただきます。そういうものが嫌いな方はブラウザバック推奨です。
 
-もしVimをつかうか迷っていて、この記事で少しでもVimを使ってみたいと思っていただければ幸いです。
+この記事によってVimの魅力が少しでも伝われば幸いです
 
 <hr>
 
@@ -24,6 +24,10 @@ Vim歴1年、めでたいです。
 - Repository: [https://github.com/Lokaltog/vim-easymotion](https://github.com/Lokaltog/vim-easymotion)
 
 めでたいです。
+
+Trend入りもしました:)
+
+![trend](http://haya14busa.com/wp-content/uploads/2014/02/Screenshot-from-2014-02-05-015432.png)
 
 1からスターover 1000のリポジトリを作り上げたわけでは勿論なく、プログラミング力というより単なる活動量のゴリ押しと些細なアイデアによって、開発が止まっていたプロジェクトを乗っ取った(collaboratorになって開発しませんかと提案された)というのが現実です。
 ですので、実は数字に見合うほどのことはできていないですが、これだけユーザー数が多いプラグインを扱えるというのはｸﾞｻｸﾞｻくるissuesがちょっぴりつらいものの、今までに無い経験でとても楽しく、『Vim駆動学習』としてVim プラグインを扱うならではのものだったと思います。
@@ -85,6 +89,8 @@ Vimの戦闘力は単純にvimrcの行数が多ければいいというわけで
 - Source: [https://github.com/haya14busa/dotfiles/tree/97a79c8331c5a869730d96ee321219df84becd62](https://github.com/haya14busa/dotfiles/tree/97a79c8331c5a869730d96ee321219df84becd62)
 - Lines: 2794
 - Scouter: 1296
+
+![vimrc_3000](http://haya14busa.com/wp-content/uploads/2014/02/Screenshot-from-2014-02-16-054350.png)
 
 1年間で約**3000**行になりました!!!
 
