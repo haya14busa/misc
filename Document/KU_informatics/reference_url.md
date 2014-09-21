@@ -135,3 +135,41 @@ Post
   - [KULINE - Kyoto University KULINE](http://kuline.kulib.kyoto-u.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=286&change_locale=ja#catdbl-TW86166054)
 - [Amazon.co.jp： インタラクションの理解とデザイン (シリーズ 現代工学入門): 西田 豊明: 本](http://www.amazon.co.jp/gp/product/4000069411/)
   - [KULINE検索 - 京都大学KULINE](http://kuline.kulib.kyoto-u.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=251&tab_num=0&op_param=srhRevTagFlg%3Dtrue%26words%3D%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25A9%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AE%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%25A8%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3#searchlist-0-87031935BNk99tQ9TO)
+
+
+Misc
+====
+### T1 : データベース
+### T2 : ユーザーインターフェース
+- [インターン講義5日目「ユーザインターフェース,HTML5」 - Hatena Developer Blog](http://developer.hatenastaff.com/entry/20100806/1281088801)
+- c.f. [エネルギー科学研究科　下田宏　講義](http://hydro.energy.kyoto-u.ac.jp/Lab/staff/shimoda/lecture/)
+- [会話分析 - Wikipedia](http://ja.wikipedia.org/wiki/%E4%BC%9A%E8%A9%B1%E5%88%86%E6%9E%90)
+- [人机交互論: Tips](http://www.usablog.jp/tips/)
+- [PDF](http://www12.atwiki.jp/kitgokaku/?cmd=upload&act=open&page=%E5%8B%89%E5%BC%B7%E4%BC%9A&file=HI.pdf)
+
+### T3 : 情報検索システム
+- [アーカイブ - 京大田中研究室](http://www.dl.kuis.kyoto-u.ac.jp/archive.html)
+- [Introduction to Information Retrieval - Hello World!!](http://pika-shi.hatenablog.com/entry/20111113/1321198178)
+- [IIR - Hello World!!](http://pika-shi.hatenablog.com/category/IIR)
+- [情報検索 - Wikipedia](http://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2)
+
+#### データ構造
+- [kd木 - Wikipedia](http://ja.wikipedia.org/wiki/Kd%E6%9C%A8)
+- [B木 - Wikipedia](http://ja.wikipedia.org/wiki/B%E6%9C%A8)
+- [R木 - Wikipedia](http://ja.wikipedia.org/wiki/R%E6%9C%A8)
+- [ハッシュテーブル - Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB)
+
+#### 再現率・適合率
+- [IIR8章まとめ - Hello World!!](http://pika-shi.hatenablog.com/entry/20111105/1320496584)
+- [再現率・適合率 - I/O Error : My Knowledge](http://petitviolet.hatenablog.com/entry/20110901/1314853107)
+- [検索における適合率 (Precision) と再現率 (Recall)](http://chalow.net/2008-01-17-1.html)
+- [検索結果の「再現率」と「適合率」 - 大人になってからの再学習](http://d.hatena.ne.jp/Zellij/20120214/p1)
+
+### T4 : 情報教育
+- [ブレンド型学習 - Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E5%9E%8B%E5%AD%A6%E7%BF%92)
+
+### T5: 人工知能 あたり, かわる(たぶん)
+- [同定木](http://www.ritsumei.ac.jp/ocw/is/2007-53235/lecture_doc/2007-53235_13.pdf)
+- [立命館 OpenCourseWare](http://www.ritsumei.ac.jp/ocw/is/2007-55269/2007-55269_lecture.htm)
+- [セマフォ - Wikipedia](http://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%9E%E3%83%95%E3%82%A9)
+- [正規文法 - Wikipedia](http://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A6%8F%E6%96%87%E6%B3%95)
